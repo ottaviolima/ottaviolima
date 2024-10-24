@@ -15,6 +15,9 @@
 </div>
 
 ## My name is Otávio Lima
+
+Sc, Brasil 🇧🇷
+
 <div align="left">
   
 [![Otávio top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ottaviolima&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
